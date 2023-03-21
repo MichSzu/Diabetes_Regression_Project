@@ -7,4 +7,5 @@ The aim of the project is to create a model that predicts whether a patient has 
 - BMI,
 - genes,
 - age.
+
 Data comes from the kaggle website (link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
